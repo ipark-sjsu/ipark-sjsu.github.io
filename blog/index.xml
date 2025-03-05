@@ -6,8 +6,15 @@
     <description>Recent content in Blog on AI in Healthcare</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 14:55:36 -0800</lastBuildDate>
     <atom:link href="https://ipark-sjsu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post</title>
+      <link>https://ipark-sjsu.github.io/blog/new-post/</link>
+      <pubDate>Wed, 05 Mar 2025 14:55:36 -0800</pubDate>
+      <guid>https://ipark-sjsu.github.io/blog/new-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>My First Blog Post</title>
       <link>https://ipark-sjsu.github.io/blog/first-post/</link>
