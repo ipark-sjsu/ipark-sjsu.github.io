@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on AI in Healthcare</title>
+    <link>https://ipark-sjsu.github.io/blog/</link>
+    <description>Recent content in Blog on AI in Healthcare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ipark-sjsu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://ipark-sjsu.github.io/blog/first-post/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://ipark-sjsu.github.io/blog/first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-blog-post&#34;&gt;&#xA;  My First Blog Post&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-first-blog-post&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Hello world! This is my first post on my Hugo-powered site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
